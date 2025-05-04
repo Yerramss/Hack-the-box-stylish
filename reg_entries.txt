@@ -1,0 +1,9 @@
+POST /api/comment/entries HTTP/1.1
+Host: 94.237.53.203:56015
+User-Agent: Mozilla/5.0
+Accept: */*
+Content-Type: application/json
+Content-Length: 36
+Connection: close
+
+{"submissionID":1,"pagination":"10"}
